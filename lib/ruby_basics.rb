@@ -19,8 +19,7 @@ def return_a_value(x = "Nice")
 end
 
 def last_evaluated_value(status)
-  status = "expert"
-  puts status
+  x = "expert"
 end
 
 def pizza_party

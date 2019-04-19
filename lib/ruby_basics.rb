@@ -10,8 +10,8 @@ def argue(phrase)
   phrase = "I'm right and you are wrong!"
 end
 
-def greeting("Hi", "Bye")
-  puts "Hi", "Bye"
+def greeting(hello, goodbye)
+  "Hello", "Goodbye"
 end
 
 def return_a_value

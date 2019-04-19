@@ -16,7 +16,7 @@ end
 
 def return_a_value(phrase)
   phrase = "Nice"
-  phrase
+  return phrase
 end
 
 def last_evaluated_value

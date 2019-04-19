@@ -20,7 +20,7 @@ end
 
 def last_evaluated_value(status)
   status = "expert"
-  status
+  puts status
 end
 
 def pizza_party
